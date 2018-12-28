@@ -1,0 +1,5 @@
+Worm Gear Ratio Speed Intial: 80.3
+-> 1 teeth worm : 16 teeth worm gear 
+-> 16 teeth gear: 14 teeth gear
+-> 14 teeth gear: 12 teeth gear
+-> 18 teeth gear: 20 teeth gear
